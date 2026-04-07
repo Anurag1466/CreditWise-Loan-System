@@ -52,7 +52,7 @@ The dataset contains applicant information such as:
 6. Model Training
 7. Model Evaluation
 
-![Train Test Split](https://github.com/Anurag1466/CreditWise-Loan-System/blob/452076d4811d413f2083e58e7cbd0cd08d57aed3/Screenshot%202026-04-07%20060428.png)
+![Train Test Split](https://github.com/Anurag1466/CreditWise-Loan-System/blob/452076d4811d413f2083e58e7cbd0cd08d57aed3/Screenshot%202026-04-07%20060816.png)
 
 ---
 
