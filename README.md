@@ -52,7 +52,10 @@ The dataset contains applicant information such as:
 6. Model Training
 7. Model Evaluation
 
+![Train Test Split](https://github.com/Anurag1466/CreditWise-Loan-System/blob/452076d4811d413f2083e58e7cbd0cd08d57aed3/Screenshot%202026-04-07%20060428.png)
+
 ---
+
 
 ## Models Used
 - Logistic Regression
@@ -65,6 +68,8 @@ The dataset contains applicant information such as:
 - Models were evaluated using accuracy, confusion matrix, and classification report
 - Naive Bayes performed best based on precision score
 
+![Naive Bayes Results](https://github.com/Anurag1466/CreditWise-Loan-System/blob/452076d4811d413f2083e58e7cbd0cd08d57aed3/Screenshot%202026-04-07%20060428.png)
+
 ---
 
 ## Visualizations
@@ -72,6 +77,9 @@ The dataset contains applicant information such as:
 - Histograms
 - Heatmaps
 - Pie charts
+
+
+![Heatmap](https://github.com/Anurag1466/CreditWise-Loan-System/blob/452076d4811d413f2083e58e7cbd0cd08d57aed3/Screenshot%202026-04-07%20060853.png)
 
 ---
 
