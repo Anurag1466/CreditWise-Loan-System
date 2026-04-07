@@ -1,4 +1,4 @@
-# Credit Risk / Loan Approval Prediction System
+# CreditWise Loan System / Loan Approval Prediction System
 
 ## Project Overview
 This project is a supervised machine learning model that predicts whether a loan application will be approved based on applicant details such as income, gender, loan amount, and credit history.
